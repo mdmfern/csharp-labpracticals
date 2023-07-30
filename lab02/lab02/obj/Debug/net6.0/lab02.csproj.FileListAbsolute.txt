@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\lab02\lab02\bin\Debug\net6.0\lab02.exe
+C:\Users\ASUS\source\repos\lab02\lab02\bin\Debug\net6.0\lab02.deps.json
+C:\Users\ASUS\source\repos\lab02\lab02\bin\Debug\net6.0\lab02.runtimeconfig.json
+C:\Users\ASUS\source\repos\lab02\lab02\bin\Debug\net6.0\lab02.dll
+C:\Users\ASUS\source\repos\lab02\lab02\bin\Debug\net6.0\lab02.pdb
+C:\Users\ASUS\source\repos\lab02\lab02\obj\Debug\net6.0\lab02.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\lab02\lab02\obj\Debug\net6.0\lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\lab02\lab02\obj\Debug\net6.0\lab02.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\lab02\lab02\obj\Debug\net6.0\lab02.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\lab02\lab02\obj\Debug\net6.0\lab02.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\lab02\lab02\obj\Debug\net6.0\lab02.dll
+C:\Users\ASUS\source\repos\lab02\lab02\obj\Debug\net6.0\refint\lab02.dll
+C:\Users\ASUS\source\repos\lab02\lab02\obj\Debug\net6.0\lab02.pdb
+C:\Users\ASUS\source\repos\lab02\lab02\obj\Debug\net6.0\lab02.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\lab02\lab02\obj\Debug\net6.0\ref\lab02.dll
